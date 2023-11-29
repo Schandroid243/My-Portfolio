@@ -63,8 +63,8 @@
             </p>
             <p>{{ project.description }}</p>
             <div v-if="project.isConfidential" class="pb-4">
-              This project comes under Squashapps pvt ltd and hence its name is
-              confidential.
+              This project falls within the domain of Aurtech Technology
+              Solutions and is therefore confidential in nature.
             </div>
             <v-btn
               class="my-2 view-project"
