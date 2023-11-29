@@ -4,7 +4,7 @@
     <div id="about" class="px-4">
       <div class="section-title">About me</div>
       <div class="mb-6 text-center" data-aos="fade-up">
-        <img class="me-img" src="@/assets/images/me.jpg" />
+        <img class="me-img" src="@/assets/images/profile_picture.jpeg" />
       </div>
       <div class="quotes text-center mb-10" data-aos="fade-up">
         <q>
