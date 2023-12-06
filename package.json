@@ -2,7 +2,7 @@
   "name": "nuxt-resume-template",
   "version": "1.0.0",
   "description": "My awesome Nuxt.js project",
-  "author": "Kousika",
+  "author": "Schandroid",
   "private": true,
   "scripts": {
     "dev": "nuxt",

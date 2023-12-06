@@ -2,7 +2,7 @@
   <div class="d-flex justify-center follow-section">
     <a
       class="linkedin"
-      title="Connect to Schadrack Ngunza on Linkedin"
+      title="Connect to Chadrack Ngunza on Linkedin"
       href="https://www.linkedin.com/in/schadrackngunza/"
       target="_blank"
     >
