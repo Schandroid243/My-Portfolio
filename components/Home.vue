@@ -10,7 +10,7 @@
         <div
           class="banner d-flex justify-center align-center rellax flex-column"
         >
-          <div class="banner-text">Hi, I am</div>
+          <div class="banner-text">Hello, I am</div>
           <div class="full-name">Chadrack Ngunza</div>
           <vue-typed-js
             class="justify-center"

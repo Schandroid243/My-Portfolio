@@ -6,8 +6,8 @@ export default {
    ** Headers of the page
    */
   head: {
-    titleTemplate: 'Schadrack Ngunza',
-    title: 'Schadrack Ngunza - Fullstack Developer',
+    titleTemplate: 'Chadrack Ngunza',
+    title: 'Chadrack Ngunza - Fullstack Developer',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -24,7 +24,7 @@ export default {
       },
       {
         name: 'og:title',
-        content: 'Schadrack Ngunza - Fullstack Developer'
+        content: 'Chadrack Ngunza - Fullstack Developer'
       },
       {
         name: 'og:description',
@@ -32,7 +32,7 @@ export default {
           'Experienced in the field of web and hybrid app development using JavaScript and its frameworks. Proficient in building scalable micro services as well.'
       },
       { name: 'og:type', content: 'website' },
-      { name: 'og:url', content: 'https://kousikaganesan.github.io/' },
+      { name: 'og:url', content: '' },
       {
         name: 'og:image',
         content:
@@ -44,11 +44,11 @@ export default {
       },
       {
         name: 'twitter:site',
-        content: 'Schadrack Ngunza'
+        content: 'Chadrack Ngunza'
       },
       {
         name: 'twitter:title',
-        content: 'Schadrack Ngunza - Fullstack Developer'
+        content: 'Chadrack Ngunza - Fullstack Developer'
       },
       {
         name: 'twitter:description',
@@ -62,10 +62,10 @@ export default {
       },
       {
         name: 'twitter:image:alt',
-        content: 'Kousika Ganesan Logo'
+        content: 'Chadrack Ngunza Logo'
       }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/shadoIco.png' }],
     script: [
       {
         // src: 'drift.min.js'
@@ -144,7 +144,7 @@ export default {
   },
   pwa: {
     manifest: {
-      name: 'Schadrack Ngunza'
+      name: 'Chadrack Ngunza'
     }
   },
   /*
