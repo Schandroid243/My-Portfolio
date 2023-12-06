@@ -36,7 +36,7 @@ export default {
       {
         name: 'og:image',
         content:
-          'https://user-images.githubusercontent.com/20679183/88207143-fceac500-cc6c-11ea-8b72-54b2b8255ef7.png'
+          'https://raw.githubusercontent.com/Schandroid243/My-Portfolio/main/my_portfolio.png'
       },
       {
         name: 'twitter:card',
@@ -58,7 +58,7 @@ export default {
       {
         name: 'twitter:image',
         content:
-          'https://user-images.githubusercontent.com/20679183/88207143-fceac500-cc6c-11ea-8b72-54b2b8255ef7.png'
+          'https://raw.githubusercontent.com/Schandroid243/My-Portfolio/main/my_portfolio.png'
       },
       {
         name: 'twitter:image:alt',
