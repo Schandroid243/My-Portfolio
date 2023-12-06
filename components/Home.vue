@@ -48,7 +48,7 @@
             color="white"
             elevation="0"
             data-aos="fade-up"
-            download="Ngunza-Chadrack-CV.pdf"
+            download="Ngunza-Chadrack-CV-Resume.pdf"
           >
             Download my CV
           </v-btn>
@@ -67,7 +67,7 @@ export default {
   data() {
     return {
       mail: Constants.HIRE_ME,
-      downloadResume: '/Ngunza-Chadrack-CV.pdf'
+      downloadResume: '/Ngunza-Chadrack-CV-Resume.pdf'
     }
   }
 }
