@@ -39,6 +39,19 @@
           >
             Hire me
           </v-btn>
+          <v-btn
+            class="ma-2"
+            large
+            outlined
+            :href="downloadResume"
+            target="_blank"
+            color="white"
+            elevation="0"
+            data-aos="fade-up"
+            download="Ngunza-Chadrack-CV.pdf"
+          >
+            Download my CV
+          </v-btn>
         </div>
         <div class="scroll-gif">
           <img alt="scroll" src="@/assets/images/scroll.gif" />
@@ -53,7 +66,8 @@ import Constants from '@/constants'
 export default {
   data() {
     return {
-      mail: Constants.HIRE_ME
+      mail: Constants.HIRE_ME,
+      downloadResume: '/Ngunza-Chadrack-CV.pdf'
     }
   }
 }

@@ -88,6 +88,7 @@ export default {
     { name: 'Email', link: 'mailto:schadrackngnuza@gmail.com' }
   ],
   HIRE_ME: 'mailto:schadrackngnuza@gmail.com',
+  Resume: 'assets/Ngunza-Chadrack-CV.pdf',
   CONNECT_VIA_LINKEDIN: 'https://www.linkedin.com/in/schadrackngunza/',
   GITHUB_LINK: 'https://github.com/Schandroid243',
   PROJECTS: [
